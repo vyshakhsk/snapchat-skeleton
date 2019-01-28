@@ -1,0 +1,114 @@
+.oo{
+  margin:0;
+}
+.ab{
+	background-color: black;
+	color:white;
+
+	font-size: 15px;
+      position: absolute;
+      top: 1000px;
+      left: 0;
+      height: 50px;
+      padding: 25px;
+      width: 96.3306%;
+     
+}
+.nav {
+	position: fixed;
+	
+	width: 100%;
+	margin: auto;
+background-color:white;
+	top: 0;
+	left: 0;
+	  font-family: Arial;
+  
+  
+}
+.nav a {
+  float: left;
+  
+  font-size: 14px;
+  color: black;
+
+  text-align: center;
+  padding: 15px 22px;
+  text-decoration: ;
+}
+.nav a:hover {
+  text-decoration: none;
+  border-bottom: 2px solid;
+  
+ 
+}
+.lis ul {
+margin-left: 100px;
+  list-style-type: none;
+  float: left;
+
+}
+.lis li{
+	
+	padding: 5px;
+	color: grey;
+}
+.lis li:hover{
+	 text-decoration: none;
+	 color: black;
+  border-bottom: 1px solid;
+
+}
+
+.ab a{
+	float: left;
+text-align: center;
+  padding: 10px 20px;
+
+}
+.na1{
+    margin-left: 200px;
+   }
+   .dropdownc a {
+    color: black;
+    font-size: 12px;
+    padding: 6px 35px;
+    text-decoration: none;
+    display: block;
+}
+.dropdownc a:hover{
+  font-size:15px;
+  background-color:lightblue;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdownc{
+  display: none;
+  position: absolute;
+
+    background-color: #f9f9f9;
+    min-width: 122px;
+    z-index: 1;
+}
+.dropdown:hover .dropdownc {
+    bottom:100%;   /*for dorp up botoom =1005*/
+    display: block;
+
+}
+.lol{
+  margin-left:150px;
+  
+  font-family:cursive;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
